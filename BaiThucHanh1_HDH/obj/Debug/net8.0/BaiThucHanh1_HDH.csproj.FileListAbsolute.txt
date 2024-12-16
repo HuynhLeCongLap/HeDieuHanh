@@ -1,0 +1,14 @@
+C:\Users\ANH VU\BaiThucHanh1_HDH\bin\Debug\net8.0\BaiThucHanh1_HDH.exe
+C:\Users\ANH VU\BaiThucHanh1_HDH\bin\Debug\net8.0\BaiThucHanh1_HDH.deps.json
+C:\Users\ANH VU\BaiThucHanh1_HDH\bin\Debug\net8.0\BaiThucHanh1_HDH.runtimeconfig.json
+C:\Users\ANH VU\BaiThucHanh1_HDH\bin\Debug\net8.0\BaiThucHanh1_HDH.dll
+C:\Users\ANH VU\BaiThucHanh1_HDH\bin\Debug\net8.0\BaiThucHanh1_HDH.pdb
+C:\Users\ANH VU\BaiThucHanh1_HDH\obj\Debug\net8.0\BaiThucHanh1_HDH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANH VU\BaiThucHanh1_HDH\obj\Debug\net8.0\BaiThucHanh1_HDH.AssemblyInfoInputs.cache
+C:\Users\ANH VU\BaiThucHanh1_HDH\obj\Debug\net8.0\BaiThucHanh1_HDH.AssemblyInfo.cs
+C:\Users\ANH VU\BaiThucHanh1_HDH\obj\Debug\net8.0\BaiThucHanh1_HDH.csproj.CoreCompileInputs.cache
+C:\Users\ANH VU\BaiThucHanh1_HDH\obj\Debug\net8.0\BaiThucHanh1_HDH.dll
+C:\Users\ANH VU\BaiThucHanh1_HDH\obj\Debug\net8.0\refint\BaiThucHanh1_HDH.dll
+C:\Users\ANH VU\BaiThucHanh1_HDH\obj\Debug\net8.0\BaiThucHanh1_HDH.pdb
+C:\Users\ANH VU\BaiThucHanh1_HDH\obj\Debug\net8.0\BaiThucHanh1_HDH.genruntimeconfig.cache
+C:\Users\ANH VU\BaiThucHanh1_HDH\obj\Debug\net8.0\ref\BaiThucHanh1_HDH.dll

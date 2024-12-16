@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BaiThucHanh1_HDH/1.0.0": {
+        "runtime": {
+          "BaiThucHanh1_HDH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiThucHanh1_HDH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
